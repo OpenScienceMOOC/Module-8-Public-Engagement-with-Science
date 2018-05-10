@@ -40,7 +40,7 @@
 
 **Tools**
 
-* [The â€˜Up-Goerâ€™ five text editor](http://splasho.com/upgoer5/) (XKCD).
+* [The 'Up-Goer' five text editor](http://splasho.com/upgoer5/) (XKCD).
 
 * [Open Science School](http://openscienceschool.org/).
 
@@ -90,7 +90,7 @@
 
 * [Guidelines for good science Public Relations](https://www.wissenschaft-im-dialog.de/fileadmin/user_upload/Ueber_uns/Gut_Siggen/Dokumente/Guidelines_for_good_science_PR_final.pdf), Wissenschaft im Dialog and the Bundesverband Hochschulkommunikation. 
 
-* [Effective communication, better science](https://blogs.scientificamerican.com/guest-blog/effective-communication-better-science/), MÃ³nica I. FelÃ?u-MÃ³jer.
+* [Effective communication, better science](https://blogs.scientificamerican.com/guest-blog/effective-communication-better-science/), Mónica I. Feliú-Mójer.
 
 * [Five strategies for identifying an audience](http://www.cdnsciencepub.com/blog/five-strategies-for-identifying-an-audience.aspx), Lisa Willemse.
 
@@ -128,7 +128,7 @@
 
 ### Tasks:
 
-* Search and make a short list of your institutionâ€™s people involved in outreach, PR etc. Do you know everybody important for what you do?
+* Search and make a short list of your institution's people involved in outreach, PR etc. Do you know everybody important for what you do?
 
 * Read a press release from your institution.
 
