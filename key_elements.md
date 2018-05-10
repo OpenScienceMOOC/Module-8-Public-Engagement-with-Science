@@ -4,7 +4,7 @@
 
 *LO8b: Understand the different target groups/audiences and communication channels, who to involve in what kind of communication, and how to do it strategically and with which tools (knowledge).*
 
-*LO8c: Develop either a citizen science program to empower non-academics interested in your research field, or a personal communication strategy to bring your research to a wider audience (tasks).  *
+*LO8c: Develop either a citizen science program to empower non-academics interested in your research field, or a personal communication strategy to bring your research to a wider audience (tasks).*
 
 ### Key components:
 
