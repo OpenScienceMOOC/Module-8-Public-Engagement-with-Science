@@ -14,7 +14,7 @@ Science communication is often seen as a unidirectional process from scientist t
 1. The researcher will be able to write a blog post or non-specialist summary about either their own research or research that they are familiar with, and communicate this to wider non-academic audiences.
 
 ## Development team
-TBC
+- [Bastian Greshake Tzovaras](https://github.com/gedankenstuecke) volunteers to work on this :joy: 
 
 ## Key documents <a name="Key documents"></a>
 
