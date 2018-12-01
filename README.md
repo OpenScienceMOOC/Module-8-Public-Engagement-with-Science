@@ -15,6 +15,8 @@ Science communication is often seen as a unidirectional process from scientist t
 
 ## Development team
 - [Bastian Greshake Tzovaras](https://github.com/gedankenstuecke) volunteers to work on this :joy: 
+- Martin Perez
+- Jon Tennant
 
 ## Key documents <a name="Key documents"></a>
 
