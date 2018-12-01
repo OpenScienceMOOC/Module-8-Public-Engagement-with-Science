@@ -30,7 +30,7 @@
 
 ### Who to involve:
 
-* Individuals: Dawn Bazely, Melanie Smallman, Lou Woodley, Caren Cooper, Shannon Dosemagen, Muki Hakley, Karen James, Elodie Chabrol, Andre Lampe.
+* Individuals: Dawn Bazely, Melanie Smallman, Lou Woodley, Caren Cooper, Shannon Dosemagen, Muki Hakley, Karen James, Elodie Chabrol, Andre Lampe, Egle Ramanauskaite, Luc Henry, Lucy Patterson.
 
 * Organisations: [Public Labs](http://publiclabs.org), [European Citizen Science Association](https://ecsa.citizen-science.net/), 
 
@@ -90,7 +90,7 @@
 
 * [Guidelines for good science Public Relations](https://www.wissenschaft-im-dialog.de/fileadmin/user_upload/Ueber_uns/Gut_Siggen/Dokumente/Guidelines_for_good_science_PR_final.pdf), Wissenschaft im Dialog and the Bundesverband Hochschulkommunikation. 
 
-* [Effective communication, better science](https://blogs.scientificamerican.com/guest-blog/effective-communication-better-science/), M�nica I. Feli�-M�jer.
+* [Effective communication, better science](https://blogs.scientificamerican.com/guest-blog/effective-communication-better-science/), Mónica I. Feliú-Mójer.
 
 * [Five strategies for identifying an audience](http://www.cdnsciencepub.com/blog/five-strategies-for-identifying-an-audience.aspx), Lisa Willemse.
 
@@ -110,7 +110,7 @@
 
 * [Open Science Monitor, Citizen Science](https://ec.europa.eu/research/openscience/index.cfm?pg=citizen&section=monitor) (European Commission).
 
-* [Cientópolis](https://www.cientopolis.org) (Citizen science and open science platform for Latin America).
+* [CientÃ³polis](https://www.cientopolis.org) (Citizen science and open science platform for Latin America).
 
 * [AAAS Community Engagement Fellows Program](https://www.aaas.org/cefp/about).
 
