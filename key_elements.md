@@ -44,6 +44,8 @@
 
 * [Open Science School](http://openscienceschool.org/).
 
+* [Citizen Science Course](https://openupsci.wixsite.com/citizensciencecourse) with a full training platform available [here](https://extendstore.ucl.ac.uk/product?catalog=UCLXICSSCJan17).
+
 **Research Articles and Reports**
 
 * [Towards an Analytical Framework of Science Communication Models](http://doras.dcu.ie/3629/1/framework_science_comm_models.pdf) (Trench, 2008).
