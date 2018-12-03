@@ -125,6 +125,12 @@
     * [Kickstarter](https://www.kickstarter.com/).
 
     * [Experiment](https://experiment.com/).
+    
+ * [Science Booster](https://wemakeit.com/channels/science)
+ 
+ * [Experiment](https://experiment.com/)
+ 
+ * [Labfundr](https://www.labfundr.ca/)
 
 ### Tasks:
 
