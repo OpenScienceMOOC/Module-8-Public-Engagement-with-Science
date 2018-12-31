@@ -86,6 +86,8 @@
 
 * [Setting up crowd science projects](http://journals.sagepub.com/doi/full/10.1177/0963662516678514) (Scheliga et al., 2016).
 
+* [Citizen science](http://discovery.ucl.ac.uk/10058422/) (Hecker et al., 2018).
+
 **Key posts:**
 
 * [Public-friendly Open Science](https://www.authorea.com/users/2/articles/50890-public-friendly-open-science/_show_article), Matteo Cantiello.
