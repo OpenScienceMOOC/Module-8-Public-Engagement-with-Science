@@ -1,4 +1,4 @@
-# Module 8: Citizen Science and Science Communication
+# Module 8: Public Engagement with Science
 
 ## Rationale <a name="Rationale"></a>
 
