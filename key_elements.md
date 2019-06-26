@@ -1,32 +1,39 @@
 **Learning Objectives**: 
 
-*LO8a: Understand the basic concepts and the viewpoints of different stakeholders in science communication (knowledge).*
+*LO8a: Understand the basic concepts and the viewpoints of different stakeholders in public engagement with science, both in science communication and community science efforts (knowledge).*
 
-*LO8b: Understand the different target groups/audiences and communication channels, who to involve in what kind of communication, and how to do it strategically and with which tools (knowledge).*
+*LO8b: Understand the different approaches to citizen science, how to involve a larger audience in your research and limitations & pitfalls (knowledge).*
 
-*LO8c: Develop either a citizen science program to empower non-academics interested in your research field, or a personal communication strategy to bring your research to a wider audience (tasks).*
+*LO8c: Understand the different approaches to target groups/audiences and communication channels, who to involve in what kind of communication, and how to do it strategically and with which tools (knowledge).*
+
+*LO8d: Develop either a citizen science program to empower non-academics interested in your research field, or a personal communication strategy to bring your research to a wider audience (tasks).*
 
 ### Key components:
 
-* Basics and principles of science communication, public outreach and engagement, and their relationship to Open Science.
+* Science Communication
+   * Basics and principles of science communication, public outreach and engagement, and their relationship to Open Science.
 
-* Different stakeholders and audiences in public engagement and science communication, and how to shape messages for each of them.
+   * Different stakeholders and audiences in public engagement and science communication, and how to shape messages for each of them.
 
-* Press releases and interacting with the media.
+   * Press releases and interacting with the media.
 
-* Different forms of social media:
+   * Different forms of social media:
 
-    * How and why to blog about your research.
+       * How and why to blog about your research.
 
-    * Using Twitter for outreach, conferences and networking.
+       * Using Twitter for outreach, conferences and networking.
 
-    * How to use video and audio for outreach.
+       * How to use video and audio for outreach.
 
-* How to connect with citizen science initiatives, public advocacy groups, and  patient organizations in your research area.
+   * How to connect with citizen science initiatives, public advocacy groups, and  patient organizations in your research area.
 
-* How to take your research to the stage (e.g., FameLab, Science Slam, Cosy Science).
+   * How to take your research to the stage (e.g., FameLab, Science Slam, Cosy Science).
 
-* When sh*t hits the fan - basics in crisis communication.
+   * When sh*t hits the fan - basics in crisis communication.
+   
+* Citizen/Community Science
+
+   * Content will come here ;-) 
 
 ### Who to involve:
 
