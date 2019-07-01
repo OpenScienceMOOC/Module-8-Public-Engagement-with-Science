@@ -9,6 +9,7 @@ Science communication is often seen as a unidirectional process from scientist t
 
 1. The researcher will be able to identify and describe some of the major different types of audience and stakeholder involved in science communication, what their needs and viewpoints are, and the importance of citizen science and public engagement with science.
 1. By working either individually or their research group, each researcher will be able to use a range of communication channels, including social media, to strategically engage different types of audience with their research.
+1. Researchers will be aware of the different ways in which citizens can be included in the process of doing research, how to design a research project with co-creation in mind and how to avoid common mistakes when planning citizen science projects.
 1. If there are relevant policy-related issues to their discipline, the researcher will be able to engage with them through available channels and make sure that their research field is appropriately represented.
 11. Each researcher will be able to identify relevant press/communication contacts at their institute, and be able to convey to them why their research is of importance for wider dissemination.
 1. The researcher will be able to write a blog post or non-specialist summary about either their own research or research that they are familiar with, and communicate this to wider non-academic audiences.
